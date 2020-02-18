@@ -38,4 +38,4 @@
     - 添加用户注册功能(暂时只能数据库直接添加用户)
 
 #### 系统部分截图展示
-![后台登录] (file///../src/main/resources/static/images/img/后台登录.png)
+![后台登录] (./src/main/resources/static/images/img/后台登录.png)
