@@ -38,7 +38,7 @@
     - 添加用户注册功能(暂时只能数据库直接添加用户)
 
 #### 系统部分截图展示
-![] (https://github.com/WLili1/blog/blob/master/src/main/resources/static/images/img/后台登录.png)
+![] (https://github.com/WLili1/blog/blob/master/src/main/resources/static/images/img/%E5%90%8E%E5%8F%B0%E7%99%BB%E5%BD%95.png)
 ![] (https://github.com/WLili1/blog/blob/master/src/main/resources/static/images/img/后台首页.png)
 ![] (https://github.com/WLili1/blog/blob/master/src/main/resources/static/images/img/后台博客首页.png)
 ![] (https://github.com/WLili1/blog/blob/master/src/main/resources/static/images/img/后台分类首页.png)
